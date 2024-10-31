@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Karimi\\source\\repos\\mini project 1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B66083DA-33CE-4AF3-A8EB-3E757B050564}|mini project 1\\mini project 1.vcxproj|C:\\Users\\Karimi\\source\\repos\\mini project 1\\mini project 1\\mini project 1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B66083DA-33CE-4AF3-A8EB-3E757B050564}|mini project 1\\mini project 1.vcxproj|solutionrelative:mini project 1\\mini project 1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mini project 1.cpp",
+              "DocumentMoniker": "C:\\Users\\Karimi\\source\\repos\\mini project 1\\mini project 1\\mini project 1.cpp",
+              "RelativeDocumentMoniker": "mini project 1\\mini project 1.cpp",
+              "ToolTip": "C:\\Users\\Karimi\\source\\repos\\mini project 1\\mini project 1\\mini project 1.cpp",
+              "RelativeToolTip": "mini project 1\\mini project 1.cpp",
+              "ViewState": "AQIAAEABAAAAAAAAAAAAAD0BAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-26T22:48:38.981Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
